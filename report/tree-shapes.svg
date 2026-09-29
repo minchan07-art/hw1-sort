@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" font-family="Helvetica, Arial, 'DejaVu Sans', sans-serif">
+  <rect width="720" height="300" fill="#fbfbf9"/>
+  <text x="20" y="28" font-size="14" fill="#24292f" text-anchor="start" font-weight="600">Insert 5, 3, 8, 1, 4, 7, 9 (random order)</text>
+  <text x="20" y="46" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">height 3, in-order walk: 1 3 4 5 7 8 9</text>
+  <line x1="190" y1="90" x2="110" y2="155" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="190" y1="90" x2="270" y2="155" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="110" y1="155" x2="70" y2="220" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="110" y1="155" x2="150" y2="220" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="270" y1="155" x2="230" y2="220" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="270" y1="155" x2="310" y2="220" stroke="#6e7781" stroke-width="1.6"/>
+  <circle cx="190" cy="90" r="15" fill="#009E73"/>
+  <text x="190" y="94.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">5</text>
+  <circle cx="110" cy="155" r="15" fill="#009E73"/>
+  <text x="110" y="159.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">3</text>
+  <circle cx="270" cy="155" r="15" fill="#009E73"/>
+  <text x="270" y="159.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">8</text>
+  <circle cx="70" cy="220" r="15" fill="#009E73"/>
+  <text x="70" y="224.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">1</text>
+  <circle cx="150" cy="220" r="15" fill="#009E73"/>
+  <text x="150" y="224.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">4</text>
+  <circle cx="230" cy="220" r="15" fill="#009E73"/>
+  <text x="230" y="224.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">7</text>
+  <circle cx="310" cy="220" r="15" fill="#009E73"/>
+  <text x="310" y="224.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">9</text>
+  <text x="190" y="280" font-size="12" fill="#6e7781" text-anchor="middle" font-weight="400">about n log n compares</text>
+  <text x="390" y="28" font-size="14" fill="#24292f" text-anchor="start" font-weight="600">Insert 1, 3, 4, 5, 7, 8, 9 (already sorted)</text>
+  <text x="390" y="46" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">height 7 = n: the tree is a linked list</text>
+  <line x1="420" y1="75" x2="462" y2="105" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="462" y1="105" x2="504" y2="135" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="504" y1="135" x2="546" y2="165" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="546" y1="165" x2="588" y2="195" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="588" y1="195" x2="630" y2="225" stroke="#6e7781" stroke-width="1.6"/>
+  <line x1="630" y1="225" x2="672" y2="255" stroke="#6e7781" stroke-width="1.6"/>
+  <circle cx="420" cy="75" r="15" fill="#E69F00"/>
+  <text x="420" y="79.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">1</text>
+  <circle cx="462" cy="105" r="15" fill="#E69F00"/>
+  <text x="462" y="109.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">3</text>
+  <circle cx="504" cy="135" r="15" fill="#E69F00"/>
+  <text x="504" y="139.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">4</text>
+  <circle cx="546" cy="165" r="15" fill="#E69F00"/>
+  <text x="546" y="169.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">5</text>
+  <circle cx="588" cy="195" r="15" fill="#E69F00"/>
+  <text x="588" y="199.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">7</text>
+  <circle cx="630" cy="225" r="15" fill="#E69F00"/>
+  <text x="630" y="229.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">8</text>
+  <circle cx="672" cy="255" r="15" fill="#E69F00"/>
+  <text x="672" y="259.5" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="600">9</text>
+  <text x="560" y="290" font-size="12" fill="#6e7781" text-anchor="middle" font-weight="400">n(n-1)/2 compares</text>
+</svg>

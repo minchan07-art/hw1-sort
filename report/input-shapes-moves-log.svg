@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, 'DejaVu Sans', sans-serif">
+  <rect width="720" height="420" fill="#fbfbf9"/>
+  <text x="20.0" y="30.0" font-size="16" fill="#24292f" text-anchor="start" font-weight="600">Element moves by input shape (log axis)</text>
+  <text x="20.0" y="50.0" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">Same data. Small values become readable on the log axis</text>
+  <line x1="78.0" y1="358.0" x2="696.0" y2="358.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="362.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">1K</text>
+  <line x1="78.0" y1="304.0" x2="696.0" y2="304.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="308.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">10K</text>
+  <line x1="78.0" y1="250.0" x2="696.0" y2="250.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="254.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">100K</text>
+  <line x1="78.0" y1="196.0" x2="696.0" y2="196.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="200.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">1M</text>
+  <line x1="78.0" y1="142.0" x2="696.0" y2="142.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="146.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">10M</text>
+  <line x1="78.0" y1="88.0" x2="696.0" y2="88.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="92.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">100M</text>
+  <line x1="78.0" y1="358.0" x2="696.0" y2="358.0" stroke="#6e7781" stroke-width="1" stroke-dasharray="none"/>
+  <text x="20.0" y="74.0" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">moves</text>
+  <rect x="97.7" y="137.5" width="25.1" height="220.5" fill="#E69F00"/>
+  <text x="110.2" y="132.5" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">12M</text>
+  <rect x="125.8" y="271.6" width="25.1" height="86.4" fill="#0072B2"/>
+  <text x="138.3" y="266.6" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">40K</text>
+  <rect x="153.8" y="309.2" width="25.1" height="48.8" fill="#009E73"/>
+  <text x="166.4" y="304.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8K</text>
+  <text x="139.8" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">random</text>
+  <rect x="221.3" y="358.0" width="25.1" height="0.8" fill="#E69F00"/>
+  <text x="233.8" y="353.0" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0</text>
+  <rect x="249.4" y="341.2" width="25.1" height="16.8" fill="#0072B2"/>
+  <text x="261.9" y="336.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">2K</text>
+  <rect x="277.4" y="309.2" width="25.1" height="48.8" fill="#009E73"/>
+  <text x="290.0" y="304.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8K</text>
+  <text x="263.4" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">sorted</text>
+  <rect x="344.9" y="121.5" width="25.1" height="236.5" fill="#E69F00"/>
+  <text x="357.4" y="116.5" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">24M</text>
+  <rect x="373.0" y="309.1" width="25.1" height="48.9" fill="#0072B2"/>
+  <text x="385.5" y="304.1" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8.1K</text>
+  <rect x="401.0" y="309.2" width="25.1" height="48.8" fill="#009E73"/>
+  <text x="413.6" y="304.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8K</text>
+  <text x="387.0" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">reversed</text>
+  <rect x="468.5" y="223.3" width="25.1" height="134.7" fill="#E69F00"/>
+  <text x="481.0" y="218.3" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">312K</text>
+  <rect x="496.6" y="335.9" width="25.1" height="22.1" fill="#0072B2"/>
+  <text x="509.1" y="330.9" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">2.6K</text>
+  <rect x="524.6" y="309.2" width="25.1" height="48.8" fill="#009E73"/>
+  <text x="537.2" y="304.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8K</text>
+  <text x="510.6" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">nearly-sorted</text>
+  <rect x="592.1" y="140.4" width="25.1" height="217.6" fill="#E69F00"/>
+  <text x="604.6" y="135.4" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">11M</text>
+  <rect x="620.2" y="262.9" width="25.1" height="95.1" fill="#0072B2"/>
+  <text x="632.7" y="257.9" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">58K</text>
+  <rect x="648.2" y="309.2" width="25.1" height="48.8" fill="#009E73"/>
+  <text x="660.8" y="304.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8K</text>
+  <text x="634.2" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">few-unique</text>
+  <line x1="78.0" y1="390.0" x2="100.0" y2="390.0" stroke="#E69F00" stroke-width="2.4" stroke-dasharray="7 4"/>
+  <circle cx="89.0" cy="390.0" r="3" fill="#E69F00"/>
+  <text x="106.0" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">bubbleSort</text>
+  <line x1="190.0" y1="390.0" x2="212.0" y2="390.0" stroke="#0072B2" stroke-width="2.4" stroke-dasharray="none"/>
+  <circle cx="201.0" cy="390.0" r="3" fill="#0072B2"/>
+  <text x="218.0" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">quickSort</text>
+  <line x1="295.4" y1="390.0" x2="317.4" y2="390.0" stroke="#009E73" stroke-width="2.4" stroke-dasharray="2 3"/>
+  <circle cx="306.4" cy="390.0" r="3" fill="#009E73"/>
+  <text x="323.4" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">treeSort</text>
+</svg>

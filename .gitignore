@@ -1,0 +1,16 @@
+# Build outputs. Executables compiled in the container are Linux binaries
+# and must not be committed; this repository names them `*.out`.
+*.out
+*.o
+*.dSYM/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor (.vscode/ is intentionally tracked: it holds build/debug settings)
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+*~

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, 'DejaVu Sans', sans-serif">
+  <rect width="720" height="420" fill="#fbfbf9"/>
+  <text x="20.0" y="30.0" font-size="16" fill="#24292f" text-anchor="start" font-weight="600">Comparisons vs moves on reversed input (log axis)</text>
+  <text x="20.0" y="50.0" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">n = 4,000. Every bubble comparison leads to a swap, and one swap is 3 moves</text>
+  <line x1="78.0" y1="358.0" x2="696.0" y2="358.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="362.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">1K</text>
+  <line x1="78.0" y1="304.0" x2="696.0" y2="304.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="308.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">10K</text>
+  <line x1="78.0" y1="250.0" x2="696.0" y2="250.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="254.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">100K</text>
+  <line x1="78.0" y1="196.0" x2="696.0" y2="196.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="200.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">1M</text>
+  <line x1="78.0" y1="142.0" x2="696.0" y2="142.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="146.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">10M</text>
+  <line x1="78.0" y1="88.0" x2="696.0" y2="88.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="92.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">100M</text>
+  <line x1="78.0" y1="358.0" x2="696.0" y2="358.0" stroke="#6e7781" stroke-width="1" stroke-dasharray="none"/>
+  <text x="20.0" y="74.0" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">count</text>
+  <rect x="175.5" y="147.2" width="35.0" height="210.8" fill="#E69F00"/>
+  <text x="193.0" y="142.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8M</text>
+  <rect x="213.5" y="265.3" width="35.0" height="92.7" fill="#0072B2"/>
+  <text x="231.0" y="260.3" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">52K</text>
+  <rect x="251.5" y="147.2" width="35.0" height="210.8" fill="#009E73"/>
+  <text x="269.0" y="142.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8M</text>
+  <text x="232.5" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">compares</text>
+  <rect x="484.5" y="121.5" width="35.0" height="236.5" fill="#E69F00"/>
+  <text x="502.0" y="116.5" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">24M</text>
+  <rect x="522.5" y="309.1" width="35.0" height="48.9" fill="#0072B2"/>
+  <text x="540.0" y="304.1" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8.1K</text>
+  <rect x="560.5" y="309.2" width="35.0" height="48.8" fill="#009E73"/>
+  <text x="578.0" y="304.2" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">8K</text>
+  <text x="541.5" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">moves</text>
+  <line x1="78.0" y1="390.0" x2="100.0" y2="390.0" stroke="#E69F00" stroke-width="2.4" stroke-dasharray="7 4"/>
+  <circle cx="89.0" cy="390.0" r="3" fill="#E69F00"/>
+  <text x="106.0" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">bubbleSort</text>
+  <line x1="190.0" y1="390.0" x2="212.0" y2="390.0" stroke="#0072B2" stroke-width="2.4" stroke-dasharray="none"/>
+  <circle cx="201.0" cy="390.0" r="3" fill="#0072B2"/>
+  <text x="218.0" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">quickSort</text>
+  <line x1="295.4" y1="390.0" x2="317.4" y2="390.0" stroke="#009E73" stroke-width="2.4" stroke-dasharray="2 3"/>
+  <circle cx="306.4" cy="390.0" r="3" fill="#009E73"/>
+  <text x="323.4" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">treeSort</text>
+</svg>

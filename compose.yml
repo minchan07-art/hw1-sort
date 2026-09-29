@@ -1,0 +1,14 @@
+# One lab container. Run from the repository root.
+#
+#   docker compose up -d              # start the container
+#   docker compose exec lab bash      # open a shell inside it
+#   docker compose down               # stop and clean up
+services:
+  lab:
+    build: .
+    # The repository folder is the working folder; host edits apply immediately.
+    working_dir: /work
+    volumes:
+      - .:/work
+    # A workbench, not a server: it only needs to stay up; work happens via exec.
+    command: sleep infinity
